@@ -3,6 +3,8 @@ I'm a student of **Applied Computer Science** at AGH University of Kraków, Facu
 Passionate about low-level C programming 🐛, IOCCC contests, reverse engineering 🔧, and computer architecture.  
 I enjoy crafting efficient, optimized code and exploring unconventional programming challenges.
 
+👥 Student Clubs
+
 ⚙️ **KN Hardwire AGH**  
 _Faculty of Electrical Engineering, Automatics, IT & Biomedical Engineering_  
 Hardware design & electronics projects  
