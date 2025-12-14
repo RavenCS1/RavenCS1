@@ -1,3 +1,6 @@
+> "Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."  
+> *— Frank Herbert, Dune*
+
 # 🖥️ About Me
 I'm a student of **Applied Computer Science** at AGH University of Kraków, Faculty of Physics and Applied Computer Science.  
 Passionate about low-level C programming 🐛, IOCCC contests, reverse engineering 🔧, and computer architecture.  
