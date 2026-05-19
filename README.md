@@ -1,14 +1,15 @@
 # About Me
 Studying **Applied Computer Science** at AGH University of Kraków, Faculty of Physics and Applied Computer Science.  
-**Passions**: low-level C programming, IOCCC contests, reverse engineering, computer architecture, operating systems and program correctness.  
+**Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
+
 Currently learning C++ with plans to explore:
 
-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) **Rust** — systems programming, memory safety
-- ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=plastic&logo=zig&logoColor=white) **Zig** — low-level alternative to C, comptime metaprogramming
-- ![Ada/SPARK](https://img.shields.io/badge/Ada%2FSPARK-%230076C8.svg?style=plastic&logoColor=white) **Ada / SPARK** — safety-critical systems, formal verification
-- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) **Haskell** — functional programming, type theory
-- ![Verilog/VHDL](https://img.shields.io/badge/Verilog%2FVHDL-%23FF6F00.svg?style=plastic&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-%23007ACC.svg?style=plastic&logoColor=white) **Verilog / VHDL / FPGA** — digital design, hardware description languages
+- **Rust** — systems programming, memory safety
+- **Zig** — low-level alternative to C, comptime metaprogramming
+- **Ada / SPARK** — safety-critical systems, formal verification
+- **Haskell** — functional programming, type theory
+- **Verilog / VHDL / FPGA** — digital design, hardware description languages
 
 Open to collaboration on low-level projects — **code reviews always welcomed!**
 
