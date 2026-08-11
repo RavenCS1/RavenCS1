@@ -37,42 +37,14 @@ Author of *Modern C* — organized by me as part of Kernel club activity
 
 # Hackathons
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="15%">
-    <col width="15%">
-    <col width="15%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Hackathon</th>
-      <th>Location</th>
-      <th>Date</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Detect &amp; Defend – Counter-Drone Hackathon</b><br>
-        <sub>Cybersecurity &amp; counter-drone technology competition</sub>
-      </td>
-      <td>Rzeszów</td>
-      <td>March 2026</td>
-      <td>
-        <a href="https://luma.com/rzeszow-2026">
-          <img src="https://img.shields.io/badge/event_page-black.svg?style=plastic&logo=linktree&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Detect & Defend – Counter-Drone Hackathon**  
+Cybersecurity & counter-drone technology competition  
+![March 2026](https://img.shields.io/badge/March_2026-blue?style=flat-square) ![Rzeszów](https://img.shields.io/badge/Rzeszów-grey?style=flat-square) [![Event page](https://img.shields.io/badge/event_page-black.svg?style=flat-square&logo=linktree&logoColor=white)](https://luma.com/rzeszow-2026)
 
 # Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,cpp,cmake,py,latex,md,bash,github,git,java" />
+    <img src="https://skillicons.dev/icons?i=c,rust,cpp,java,py,cmake,latex,md,bash,git,github" />
   </a>
 </p>
 
