@@ -1,5 +1,7 @@
 # About Me
-Studying **Applied Computer Science** (5th semester) and **Microelectronics in Technology and Medicine** (1st semester) at AGH University of Kraków.  
+Studying **Applied Computer Science** (5th semester)  
+and **Microelectronics in Technology and Medicine** (1st semester)  
+at AGH University of Kraków.  
 **Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
 
@@ -29,37 +31,9 @@ Optical/radio comms, HF electronics, radars, lasers & signal processing
 
 # Events
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="15%">
-    <col width="15%">
-    <col width="15%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Location</th>
-      <th>Date</th>
-      <th>Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Online lecture with Jens Gustedt</b><br>
-        <sub>Author of <i>Modern C</i> — organized by me as part of Kernel club activity</sub>
-      </td>
-      <td>Online</td>
-      <td>April 2026</td>
-      <td>
-        <a href="https://www.linkedin.com/posts/kernel-scientific-group-at-agh-university-of-science-and-technology_agh-aghuniversity-computerscience-activity-7449343184566042624-GfCe">
-          <img src="https://img.shields.io/badge/LinkedIn_post-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Online lecture with Jens Gustedt**  
+Author of *Modern C* — organized by me as part of Kernel club activity  
+![April 2026](https://img.shields.io/badge/April_2026-blue?style=flat-square) ![Online](https://img.shields.io/badge/Online-grey?style=flat-square) [![LinkedIn post](https://img.shields.io/badge/LinkedIn_post-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/kernel-scientific-group-at-agh-university-of-science-and-technology_agh-aghuniversity-computerscience-activity-7449343184566042624-GfCe)
 
 # Hackathons
 
@@ -96,7 +70,11 @@ Optical/radio comms, HF electronics, radars, lasers & signal processing
 </table>
 
 # Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,rust,cpp,cmake,py,latex,md,bash,github,git,java" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RavenCS1&icon=0&color=0)](https://visitcount.itsvg.in)
