@@ -1,8 +1,8 @@
 # About Me
 Student at AGH University of Kraków, studying:
 
-- **Applied Computer Science** (5th semester)
-- **Microelectronics in Technology and Medicine** (1st semester)
+- **Applied Computer Science** (5th semester) — Faculty of Physics and Applied Computer Science
+- **Microelectronics in Technology and Medicine** (1st semester) — Faculty of Electrical Engineering, Automatics, IT & Biomedical Engineering
 
 **Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
