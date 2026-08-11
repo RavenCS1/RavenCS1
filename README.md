@@ -2,7 +2,7 @@
 Student at AGH University of Kraków, studying:
 
 - **Applied Computer Science** (5th semester) — Faculty of Physics and Applied Computer Science
-- **Microelectronics in Technology and Medicine** (1st semester) — Faculty of Electrical Engineering, Automatics, IT & Biomedical Engineering
+- **Microelectronics in Technology and Medicine** (1st semester) — Faculty of EAIiIB
 
 **Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
@@ -35,13 +35,13 @@ Optical/radio comms, HF electronics, radars, lasers & signal processing
 
 **Online lecture with Jens Gustedt**  
 Author of *Modern C* — organized by me as part of Kernel club activity  
-![April 2026](https://img.shields.io/badge/April_2026-blue?style=flat-square) ![Online](https://img.shields.io/badge/Online-grey?style=flat-square) [![LinkedIn post](https://img.shields.io/badge/LinkedIn_post-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/kernel-scientific-group-at-agh-university-of-science-and-technology_agh-aghuniversity-computerscience-activity-7449343184566042624-GfCe)
+![April 2026](https://img.shields.io/badge/April_2026-blue?style=for-the-badge) ![Online](https://img.shields.io/badge/Online-grey?style=for-the-badge) [![LinkedIn post](https://img.shields.io/badge/LinkedIn_post-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/kernel-scientific-group-at-agh-university-of-science-and-technology_agh-aghuniversity-computerscience-activity-7449343184566042624-GfCe)
 
 # Hackathons
 
 **Detect & Defend – Counter-Drone Hackathon**  
 Cybersecurity & counter-drone technology competition  
-![March 2026](https://img.shields.io/badge/March_2026-blue?style=flat-square) ![Rzeszów](https://img.shields.io/badge/Rzeszów-grey?style=flat-square) [![Event page](https://img.shields.io/badge/event_page-black.svg?style=flat-square&logo=linktree&logoColor=white)](https://luma.com/rzeszow-2026)
+![March 2026](https://img.shields.io/badge/March_2026-blue?style=for-the-badge) ![Rzeszów](https://img.shields.io/badge/Rzeszów-grey?style=for-the-badge) [![Event page](https://img.shields.io/badge/event_page-black.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://luma.com/rzeszow-2026)
 
 # Tech Stack
 <p align="center">
