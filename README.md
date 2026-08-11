@@ -7,7 +7,13 @@ Student at AGH University of Kraków, studying:
 **Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
 
-**C < Rust < C++**
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <b> < </b>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <b> < </b>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 Plans to explore:
 
