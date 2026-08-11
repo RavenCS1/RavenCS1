@@ -1,8 +1,6 @@
 # About Me
-- **Applied Computer Science** (5th semester) — Faculty of Physics and Applied Computer Science  
-- **Microelectronics in Technology and Medicine** (1st semester) — Faculty of Electrical Engineering, Automatics, IT & Biomedical Engineering  
-
-at AGH University of Kraków.  
+**Applied Computer Science** (5th semester) · **Microelectronics in Technology and Medicine** (1st semester)  
+AGH University of Kraków  
 **Passions**: low-level C programming, IOCCC contests, computer architecture, operating systems and program correctness.  
 **Focus**: continuously developing deep C language expertise through advanced challenges, crafting efficient, optimized code and unconventional programming challenges.  
 
