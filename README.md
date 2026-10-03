@@ -44,7 +44,7 @@ Cybersecurity & counter-drone technology competition
 ![March 2026](https://img.shields.io/badge/March_2026-blue?style=for-the-badge) ![Rzeszów](https://img.shields.io/badge/Rzeszów-grey?style=for-the-badge) [![Event page](https://img.shields.io/badge/event_page-black.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://luma.com/rzeszow-2026)
 
 **Nokia FPGA Hackathon 2026**  
-24h RTL design, simulation & optimization challenge on AMD Kria FPGA 
+24h RTL design, simulation & optimization challenge on AMD Kria FPGA  
 ![September 2026](https://img.shields.io/badge/September_2026-blue?style=for-the-badge) ![Kraków](https://img.shields.io/badge/Kraków-grey?style=for-the-badge) ![Top 20](https://img.shields.io/badge/Top_20-green?style=for-the-badge) [![Event page](https://img.shields.io/badge/event_page-black.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://fpgahackathon.com)
 
 **HackYeah 2026**  
